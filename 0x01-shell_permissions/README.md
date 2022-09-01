@@ -10,4 +10,5 @@ Write a script that sets the permission to the file hello as follows: Owner: no 
 -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 Write a script that sets the mode of the file hello the same as olleh’s mode.
  script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
-script that creates a directory called my_dir with permissions 751 in the working directory.
+script that creates a directory called mydir with permissions 751 in the working directory.
+Write a script that changes the group owner to school for the file hello

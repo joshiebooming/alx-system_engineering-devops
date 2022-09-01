@@ -3,3 +3,4 @@
 script that prints all the groups the current user is part of
 3. New owner
 Write a script that creates an empty file called hello
+ script that adds execute permission to the owner of the file hello

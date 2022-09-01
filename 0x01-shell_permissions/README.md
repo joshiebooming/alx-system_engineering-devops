@@ -2,3 +2,4 @@
 1. Who am I
 script that prints all the groups the current user is part of
 3. New owner
+Write a script that creates an empty file called hello

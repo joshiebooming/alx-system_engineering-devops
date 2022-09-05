@@ -20,3 +20,7 @@ Write a script that deletes all the regular files (not the directories) with a .
 20. Without C, you would live in hiago
 21. esreveR
 22. DJ Cut Killer
+23. Empty casks make the most noise
+24. A gif is worth ten thousand words
+25. Acrostic
+26. The biggest fan
